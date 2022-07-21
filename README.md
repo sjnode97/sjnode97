@@ -1,4 +1,5 @@
 ### Hi there 👋
+洋洋别看了，快去干活code
 [![sjnode97's GitHub stats](https://github-readme-stats.vercel.app/api?username=48278089)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sjnode97/sjnode97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
